@@ -1,8 +1,4 @@
 # Peggy-Eaters
 Credits:
 
---------------------------------------
-
-Jonas Devadder
-
-Cedric van Uytsel
+Jonas Devadder and Cedric van Uytsel
