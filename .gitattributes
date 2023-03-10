@@ -1,3 +1,5 @@
 *.ma linguist-detectable=false
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
 FreeBird.wav filter=lfs diff=lfs merge=lfs -text
 RevoltFromTheAbbys.wav filter=lfs diff=lfs merge=lfs -text
